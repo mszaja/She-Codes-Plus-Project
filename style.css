@@ -1,0 +1,35 @@
+h2 {
+  padding: 20px 0 0;
+}
+
+h3,
+h4 {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.partly-cloudy {
+  color: #fd7e18;
+}
+
+.small {
+  color: gray;
+}
+
+.col {
+  text-align: center;
+}
+
+.fa-cloud {
+  color: #339fff;
+}
+
+.fa-sun {
+  color: #fd7e18;
+}
+.fa-cloud-rain {
+  color: #339fff;
+}
+
+.units {
+  text-align-last: small;
+}
